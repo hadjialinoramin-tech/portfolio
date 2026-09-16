@@ -39,7 +39,7 @@ function App() {
 
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/UpResume.pdf';
+    link.href = '/ResumeUpdated.pdf';
     link.download = 'NorAmin_CV.pdf';
     document.body.appendChild(link);
     link.click();
