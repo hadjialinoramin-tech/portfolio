@@ -433,7 +433,7 @@ function App() {
           <p>
             <a href="tel:+639056919279">+63 905 691 9279</a>
           </p>
-          <p>Marawi City, Misamis Oriental, Philippines</p>
+          <p>Marawi City, Lanao Del Sur, Philippines</p>
         </address>
         <ul className="socials" aria-label="Social links">
           {SOCIALS.map(({ label, href, Icon }) => (
